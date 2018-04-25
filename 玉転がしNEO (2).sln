@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "玉転がしNEO (2)", "玉転がしNEO (2).csproj", "{96267F8D-EE4F-036C-A295-0102C6088ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "玉転がしNEO (2).Plugins", "玉転がしNEO (2).Plugins.csproj", "{5FF99A46-84F0-3F6B-C304-80926ED31B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "玉転がしNEO (2).Editor", "玉転がしNEO (2).Editor.csproj", "{5C79919F-A6FE-6FB9-8A9F-CD000AF96238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96267F8D-EE4F-036C-A295-0102C6088ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96267F8D-EE4F-036C-A295-0102C6088ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96267F8D-EE4F-036C-A295-0102C6088ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96267F8D-EE4F-036C-A295-0102C6088ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF99A46-84F0-3F6B-C304-80926ED31B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF99A46-84F0-3F6B-C304-80926ED31B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF99A46-84F0-3F6B-C304-80926ED31B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF99A46-84F0-3F6B-C304-80926ED31B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C79919F-A6FE-6FB9-8A9F-CD000AF96238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C79919F-A6FE-6FB9-8A9F-CD000AF96238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C79919F-A6FE-6FB9-8A9F-CD000AF96238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C79919F-A6FE-6FB9-8A9F-CD000AF96238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
